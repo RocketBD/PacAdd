@@ -11,3 +11,7 @@ address　You can type addresses you want to enter with Accesser here, by seprat
 
 # 尚不完善!
 查重等功能尚未实现，欢迎你帮助改进源码。
+
+# Copyright Decleare
+Copyright(c) 2020 RocketBD
+This copyright applies to all sourse code in this repository.
